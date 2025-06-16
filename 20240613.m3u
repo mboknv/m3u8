@@ -85,17 +85,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 http://117.27.190.42:9998/tsfile/live/23251_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,动作影院
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1,湖南电影
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南电影" tvg-id="湖南电影" tvg-name="湖南电影",湖南电影
 http://175.10.228.46:8081/tsfile/live/0019_1.m3u8
-#EXTINF:-1,CHC动作电影
-http://60.27.20.217:4022/rtp/225.1.1.215:5002
-#EXTINF:-1,CHC家庭影院
-http://60.27.20.217:4022/rtp/225.1.1.213:5002
-#EXTINF:-1,CHC影迷电影
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CHC动作电影" tvg-id="CHC动作电影" tvg-name="CHC动作电影",CHC动作电影
+http://222.169.99.87:7777/rtp/239.37.0.186:5540
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CHC家庭影院" tvg-id="CHC家庭影院" tvg-name="CHC家庭影院",CHC家庭影院
+http://222.169.99.87:7777/rtp/239.37.0.188:5540
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CHC影迷电影" tvg-id="CHC影迷电影" tvg-name="CHC影迷电影",CHC影迷电影
 http://171.116.222.185:8003/rtp/226.0.2.240:9820
-#EXTINF:-1,经典电影
-http://121.24.99.41:8090/hls/103/index.m3u8
-#EXTINF:-1,黑莓电影
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/经典电影" tvg-id="经典电影" tvg-name="经典电影",经典电影
+http://lxajh.top/tv/douyu.php?id=74374
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/黑莓电影" tvg-id="黑莓电影" tvg-name="黑莓电影",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通",金鹰卡通
-http://175.0.94.183:9000/udp/239.76.246.107:1234
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/NewTV惊悚悬疑" tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑",NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
