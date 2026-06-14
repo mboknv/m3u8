@@ -59,8 +59,8 @@
         },
         {
             "key": "tj综合",
-            "name": "🔍网盘丨搜索",
-            "type": 3,
+            "name": "🔍网盘丨搜索"，
+            "type": 3，
             "api": "csp_TGSou",
             "searchable": 1,
             "changeable": 0
@@ -84,7 +84,7 @@
                     "https://www.wogg.one"
                 ]
             }
-        },
+        }，
         {
             "key": "木偶",
             "name": "🤪木偶｜4K",
@@ -191,7 +191,7 @@
                 "site": [
                     "https://xhww.net",
                     "https://erxiaofn.site",
-                    "https://erxiaofn.click",
+                    "https://erxiaofn.click"，
                     "https://www.xhww.net"
                 ]
             }
@@ -277,7 +277,7 @@
             "ext": {
                 "site": [
                     "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
+                    "https://www.leijing1.com"，
                     "https://leijing.xyz",
                     "https://leijing1.com"
                 ]
@@ -370,7 +370,7 @@
             "type": 3,
             "timeout": 60,
             "api": "csp_MiSou"
-        },
+        }，
         {
             "key": "天翼",
             "name": "🔍天翼｜搜索",
@@ -458,7 +458,7 @@
         }
     ]
 }
-   "lives":[{"name":"live","type":0,"url":"https://raw.githubusercontent.com/mboknv/m3u8/refs/heads/main/0921.txt
+   "lives":[{"name":"live","type":0,"url":"https://raw.githubusercontent.com/mboknv/m3u8/refs/heads/main/260614.txt
 
 ","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "logo":"https://gitee.com/liujick/iptv/raw/master/NanFeng.gif",
